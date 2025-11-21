@@ -69,34 +69,8 @@ React.js, React Router, Axios, Recharts, Custom CSS.
 
 Backend
 
-Node.js
+Node.js, Express.js, Mongoose, JWT Authentication, Database MongoDB.
 
-Express.js, Mongoose, JWT Authentication, Database MongoDB.
-
-📁 Project Structure
-project-root/
-│
-├── backend/
-│   ├── config/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── seed09A.js
-│   ├── seed10A.js
-│   ├── server.js
-│   └── .env
-│
-└── frontend/
-    ├── src/
-    │   ├── api/
-    │   ├── components/
-    │   ├── context/
-    │   ├── pages/
-    │   ├── styles/
-    │   ├── App.jsx
-    │   └── main.jsx
-    ├── public/
-    └── vite.config.js
 
 🔐 Authentication Flow
 
