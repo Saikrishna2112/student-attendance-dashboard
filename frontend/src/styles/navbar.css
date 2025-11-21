@@ -1,0 +1,29 @@
+.navbar {
+  background: linear-gradient(#ffffff, #d6d6d6);
+  padding: 12px 20px;
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+  border-bottom: 2px solid #bfbfbf;
+}
+
+.nav-title-box {
+  text-align: center;
+}
+
+.nav-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.nav-user-box,
+.nav-logout-box {
+  background: #eeeeee;
+  border: 1px solid black;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+.nav-logout-box {
+  cursor: pointer;
+}
