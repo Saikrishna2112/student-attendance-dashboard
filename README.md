@@ -93,6 +93,34 @@ Authorization: Bearer <token>
 
 Unauthorized users → redirected to /login
 
+
+📁 Project Structure
+project-root/
+│
+├── backend/
+│   ├── config/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── seed09A.js
+│   ├── seed10A.js
+│   ├── server.js
+│   └── .env
+│
+└── frontend/
+    ├── src/
+    │   ├── api/
+    │   ├── components/
+    │   ├── context/
+    │   ├── pages/
+    │   ├── styles/
+    │   ├── App.jsx
+    │   └── main.jsx
+    ├── public/
+    └── vite.config.js
+
+    
+
 📌 API Endpoints
 🧑‍🏫 Auth Routes
 Method	Endpoint	Description
