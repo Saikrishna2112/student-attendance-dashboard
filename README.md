@@ -94,7 +94,14 @@ Authorization: Bearer <token>
 Unauthorized users → redirected to /login
 
 
+
+### ✅ Corrected README Project Structure (properly formatted)
+
+Copy this EXACT block into your README.md:
+
+```bash
 📁 Project Structure
+
 project-root/
 │
 ├── backend/
@@ -119,7 +126,6 @@ project-root/
     ├── public/
     └── vite.config.js
 
-    
 
 📌 API Endpoints
 🧑‍🏫 Auth Routes
