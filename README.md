@@ -95,10 +95,6 @@ Unauthorized users → redirected to /login
 
 
 
-### ✅ Corrected README Project Structure (properly formatted)
-
-Copy this EXACT block into your README.md:
-
 ```bash
 📁 Project Structure
 
