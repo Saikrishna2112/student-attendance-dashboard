@@ -1,3 +1,4 @@
+```bash
 📘 Student Attendance Dashboard – MERN Stack Project
 
 A complete Student Attendance Management System built using the MERN stack
@@ -95,7 +96,7 @@ Unauthorized users → redirected to /login
 
 
 
-```bash
+
 📁 Project Structure
 
 project-root/
